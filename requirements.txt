@@ -1,0 +1,7 @@
+PyQt5>=5.15,<6
+beautifulsoup4>=4.13.5,<5
+urllib3>=2.2.0,<3
+requests>=2.32.0,<3
+pdfplumber>=0.11.0,<0.12
+tqdm>=4.67.0,<5
+pandas>=2.0.3,<3
